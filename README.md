@@ -75,3 +75,6 @@ Expected class:
 ### Example:
 
 ![img.png](img.png)
+
+### Test report
+![img_1.png](img_1.png)
